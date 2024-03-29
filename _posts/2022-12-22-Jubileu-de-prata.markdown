@@ -27,6 +27,6 @@ print_hi('Tom')
 Meu Currículo completo por ser acessado no [Lattes][lattes-link].
 Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
 
-[lates-link]: https://jekyllrb.com/docs/home](http://lattes.cnpq.br/6147640440978297
+[lates-link]: http://lattes.cnpq.br/6147640440978297
 [instagram-link]: instagram.com/henriquealvarengadasilva
 [linkedin-link]:  linkedin.com/in/henriquealvarengasilva
