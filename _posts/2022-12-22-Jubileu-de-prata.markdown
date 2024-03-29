@@ -6,7 +6,7 @@ categories: Marcos da carreira
 ---
 Em dezembro de 2022 tive a honra de receber, juntamente com meus colegas médicos formados na UFMG, o diploma de 25 anos de carreira médica. Obrigado à Deus, à minha família e aos meus pacientes que trilharam junto comigo esses 25 anos.
 
-![Jubileu](/Jubileu_de_Prata_2022_s2.jpeg)
+![Jubileu](henriquealvarenga.github.io/_posts/Jubileu_de_Prata_2022_s2.jpeg)
 
 Meu Currículo completo por ser acessado no [Lattes][lattes-link].
 Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
