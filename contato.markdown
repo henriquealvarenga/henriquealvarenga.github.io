@@ -20,9 +20,10 @@ Fixo:    (32) 3371-7176
 # Email:   
 henriquealvarenga@email.com   
 
+# Mídias sociais:  
 [instagram][instagram-link]   
 [Linkedin][linkedin-link]  
 
-# Mídias sociais:  
+
 [instagram-link]: https://www.instagram.com/henriquealvarengadasilva
 [linkedin-link]:  https://www.linkedin.com/in/henriquealvarengasilva
