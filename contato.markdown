@@ -17,7 +17,7 @@ Celular: (32) 99981-2366 (whatsapp)
 Fixo:    (32) 3371-7176 
 
 # Email:   
-henriquealvarenga@gmail.com[henriquealvarenga@gmail.com]
+henriquealvarenga@gmail.com(henriquealvarenga@gmail.com)
 
 # Mídias sociais:  
 [instagram][instagram-link]   
