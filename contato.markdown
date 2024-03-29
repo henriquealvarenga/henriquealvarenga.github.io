@@ -10,7 +10,7 @@ Centro
 São João del Rei - MG  
 Perto da Igreja São Francisco  
 
-![Mapa](images/map.jpg)
+![Mapa](images/map.jpeg)
 
 # Telefones do consultório:  
 Celular: (32) 99981-2366 (whatsapp)  
