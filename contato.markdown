@@ -10,12 +10,14 @@ Centro
 São João del Rei - MG  
 Perto da Igreja São Francisco  
 
+![Localização](images/map.jpg)
+
 # Telefones do consultório:  
 Celular: (32) 99981-2366 (whatsapp)  
 Fixo:    (32) 3371-7176 
 
 # Email:   
-henriquealvarenga@email.com   
+henriquealvarenga@gmail.com  
 
 # Mídias sociais:  
 [instagram][instagram-link]   
