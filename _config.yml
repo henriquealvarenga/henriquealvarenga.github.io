@@ -21,13 +21,10 @@
 title: Henrique Alvarenga da Silva
 email: henriquealvarenga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Sou Médico Psiquiatra, graduado em Medicina pela Universidade Federal de Minas Gerais (UFMG) em 1997, especialista em Psiquiatria pelo Hospital das Clínicas da Universidade Federal de Minas Gerais (UFMG) no ano 2000. 
- Sou especialista em Psicoterapia Cognitiva-Construtivista (Núcleo de Psicoterapia Cognitiva de São Paulo). 
- Também sou Bacharel em Direito pelo Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN - 2013). 
- Atualmente sou Professor do Curso de Medicina do Centro de Ensino Superior Presidente Tancredo de Almeida Neves (UNIPTAN) nas disciplinas Métodos de Ensino e Pesquisa,
- e Professor do Curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) nas disciplinas de Psiquiatria e de Psicopatologia. 
- Mestre em Ensino em Saúde pela UNIFENAS (2018). 
- Tenho mais de 20 experiência em psiquiatria clínica, em neurociências, pesquisa e análise de dados, com ênfase na interface entre a ciência, tecnologia, filosofia, comportamento e emoção.
+ Médico Psiquiatra, graduado na UFMG em 1997, especialista em Psiquiatria pelo HC-UFMG no ano 2000. 
+ Especialista em Psicoterapia Cognitiva-Construtivista.
+ Professor de Medicina na UFSJ e no UNIPTAN.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://henriquealvarenga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DrHenriquePsiq
