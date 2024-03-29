@@ -10,6 +10,8 @@ Em dezembro de 2022 tive a honra de receber, juntamente com meus colegas médico
 
 ![Jubileu](/images/Jubileu.jpeg)
 
+![Jubileu](Jubileu_de_Prata_2022_s2.jpeg)
+
 Meu Currículo completo por ser acessado no [Lattes][lattes-link].  
 Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
 
