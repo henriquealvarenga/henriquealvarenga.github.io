@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contato
-permalink: /Contato/
+permalink: https://henriquealvarenga.github.io/Contato
 ---
 
 
