@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Henrique](images/retrato.jpeg)
+![Henrique](images/retrato_s.jpeg)
