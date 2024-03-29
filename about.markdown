@@ -12,12 +12,9 @@ permalink: /about/
  Mestre em Ensino em Saúde pela UNIFENAS (2018). 
  Tenho mais de 20 experiência em psiquiatria clínica, em neurociências, pesquisa e análise de dados, com ênfase na interface entre a ciência, tecnologia, filosofia, comportamento e emoção.
  
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Meu Currículo completo por ser acessado no [Lattes][lattes-link].
+Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[lattes-link]: http://lattes.cnpq.br/6147640440978297
+[instagram-link]: https://www.instagram.com/henriquealvarengadasilva
+[linkedin-link]:  https://www.linkedin.com/in/henriquealvarengasilva
