@@ -23,5 +23,6 @@ henriquealvarenga@email.com
 [instagram][instagram-link]   
 [Linkedin][linkedin-link]  
 
+# Mídias sociais:  
 [instagram-link]: https://www.instagram.com/henriquealvarengadasilva
 [linkedin-link]:  https://www.linkedin.com/in/henriquealvarengasilva
