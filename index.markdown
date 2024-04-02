@@ -6,6 +6,6 @@ layout: home
 ---
 
 ![Henrique](./images/retrato_s.jpeg)
-Dr. Henrique Alvarenga da Silva. 
+# Dr. Henrique Alvarenga da Silva.  
 Medico Psiquiatra  
 CRM-MG 31.778
