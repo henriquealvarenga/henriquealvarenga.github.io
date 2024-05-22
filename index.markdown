@@ -14,6 +14,8 @@ Sou Médico Psiquiatra, graduado em Medicina pela Universidade Federal de Minas 
 
 Fiz meu mestrado em Ensino em Saúde pela UNIFENAS (2018) e atualmente sou Professor do Curso de Medicina do Centro de Ensino Superior Presidente Tancredo de Almeida Neves (UNIPTAN) nas disciplinas Métodos de Ensino e Pesquisa,e Professor do Curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) nas disciplinas de Psiquiatria e de Psicopatologia. 
 
+Juntamente com a docência, continuo praticando a psiquiatria em meu consultório, há mais de 25 anos.
+
 Em dezembro de 2022 tive a honra de receber, juntamente com meus colegas médicos formados na UFMG, o diploma de 25 anos de carreira médica. 
 Obrigado à Deus, à minha família e aos meus pacientes que trilharam junto comigo esses 25 anos.
 
@@ -21,6 +23,11 @@ Obrigado à Deus, à minha família e aos meus pacientes que trilharam junto com
 
 Meu Currículo completo por ser acessado no [Lattes][lattes-link].  
 Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
+
+# Endereço do Consultório:
+Rua Aureliano Mourão, 140 - Centro - São João del-Rei - MG  
+Telefone: (32) 3371-7176
+Celular:  (32) 99981-3248 (whatsapp)
 
 [lattes-link]: http://lattes.cnpq.br/6147640440978297
 [instagram-link]: https://www.instagram.com/henriquealvarengadasilva
