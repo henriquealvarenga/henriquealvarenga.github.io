@@ -17,6 +17,7 @@ Fiz meu mestrado em Ensino em Saúde pela UNIFENAS (2018) e atualmente sou Profe
 Em dezembro de 2022 tive a honra de receber, juntamente com meus colegas médicos formados na UFMG, o diploma de 25 anos de carreira médica. 
 Obrigado à Deus, à minha família e aos meus pacientes que trilharam junto comigo esses 25 anos.
 
+![Jubileu](/images/Jubileu.jpeg)
 
-Meu Currículo completo por ser acessado no Lattes.
-Minhas postagens podem ser acompanhadas no instagram e no Linkedin.
+Meu Currículo completo por ser acessado no [Lattes][lattes-link].  
+Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
