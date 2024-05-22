@@ -27,7 +27,7 @@ Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Lin
 # Endereço do Consultório:
 Rua Aureliano Mourão, 140 - Centro - São João del-Rei - MG  
 Telefone: (32) 3371-7176  
-Celular:  (32) 99981-3248 (whatsapp)
+Celular:  (32) 99981-2366 (whatsapp)
 
 [lattes-link]: http://lattes.cnpq.br/6147640440978297
 [instagram-link]: https://www.instagram.com/henriquealvarengadasilva
