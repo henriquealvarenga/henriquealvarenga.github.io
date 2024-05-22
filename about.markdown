@@ -12,7 +12,7 @@ Bacharel em Direito pelo Centro Universitário Presidente Tancredo de Almeida Ne
 
 Atualmente sou Professor do Curso de Medicina do Centro de Ensino Superior Presidente Tancredo de Almeida Neves (UNIPTAN) nas disciplinas Métodos de Ensino e Pesquisa,e Professor do Curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) nas disciplinas de Psiquiatria e de Psicopatologia. Mestre em Ensino em Saúde pela UNIFENAS (2018). 
 
-Mais 20 experiência em psiquiatria clínica, em neurociências, pesquisa e análise de dados, com ênfase na interface entre a ciência, tecnologia, filosofia, comportamento e emoção.  
+Mais 20 anos de experiência em psiquiatria clínica, em neurociências, pesquisa e análise de dados, com ênfase na interface entre a ciência, tecnologia, filosofia, comportamento e emoção.  
  
 Meu Currículo completo por ser acessado no [Lattes][lattes-link].  
 Minhas postagens podem ser acompanhadas no [instagram][instagram-link] e no [Linkedin][linkedin-link].
