@@ -8,7 +8,8 @@ layout: home
 ![Henrique](./images/retrato.jpeg)
 # Dr. Henrique Alvarenga da Silva.  
 Medico Psiquiatra  
-CRM-MG 31.778
+CRM-MG 31.778  
+RQE 8381 (psiquiatra)
 
 Sou Médico Psiquiatra, graduado em Medicina pela Universidade Federal de Minas Gerais (UFMG) em 1997, especialista em Psiquiatria pelo Hospital das Clínicas da Universidade Federal de Minas Gerais (UFMG) no ano 2000. Sou também especialista em Psicoterapia Cognitiva-Construtivista (Núcleo de Psicoterapia Cognitiva de São Paulo). Além da medicina, estudei também direito e graduei em Bacharel em Direito pelo Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN - 2013), mas minha profissão continua sendo a medicina, em especial a psiquiatria.
 
