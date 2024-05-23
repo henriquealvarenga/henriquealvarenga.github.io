@@ -7,7 +7,7 @@ layout: home
 
 ![Henrique](./images/retrato.jpeg)
 # Dr. Henrique Alvarenga da Silva.  
-Medico Psiquiatra  
+## Medico Psiquiatra  
 CRM-MG 31.778  
 RQE 8381 (psiquiatra)
 
