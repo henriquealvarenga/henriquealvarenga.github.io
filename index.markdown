@@ -8,8 +8,8 @@ layout: home
 ![Henrique](./images/retrato.jpeg)
 # Dr. Henrique Alvarenga da Silva    
 ## Medico Psiquiatra  
-**Membro da Associação Brasileira de Psiquiatria (ABP)**
-**Professor do Curso de Medicina da UFSJ e do UNIPTAN**
+**Membro da Associação Brasileira de Psiquiatria (ABP)**  
+**Professor do Curso de Medicina da UFSJ e do UNIPTAN**  
 CRM-MG 31.778  
 RQE 8381 (psiquiatra)
 
