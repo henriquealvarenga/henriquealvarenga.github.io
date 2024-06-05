@@ -4,23 +4,39 @@ title: Publicações
 permalink: /publications/
 ---
 
-# Livros Publicados
+**Livros Publicados**
 
-## Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde
-Disponível na [Amazon][book-link]
-[book-link]: https://a.co/d/8VVqZHi
+- Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde
+  Disponível na Amazon: <https://a.co/d/8VVqZHi>
 
-<https://a.co/d/8VVqZHi>
+- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde
+  <http://www.henriquealvarenga.com/manual_r.github.io>
 
-# Sites Publicados
-[Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde][site-link]
-[site-link]: http://www.henriquealvarenga.com/manual_r.github.io
+- Condenação de Inocentes: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Curitiba: Juruá Editora, 2020.
+  Disponível na Amazon: <https://a.co/d/bjpxTj8>
 
-<http://www.henriquealvarenga.com/manual_r.github.io>
+**Dissertção de Mestrado**
 
-# Artigos Publicados:
+- A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio. Dissertação de Mestrado, 2018.
+  Disponível em: <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
 
-### Artigos completos publicados em periódicos
+**Capítulos de Livros**
+
+- Introdução à neuropsicologia: neuroanatomia, neurofisiologia e plasticidade cerebral In: *Avaliação cognitiva: princípios e técnicas* . 1ª ed. São Paulo: Editora Hogrefe CETEPP, 2022, v.1, p. 13-47. Henrique Alvarenga da Silva; Matheus Silva Prenassi; Alexandre Siles Vargas Junior; Drielle Barbosa Pereira
+  Disponível na Amazon:  <https://a.co/d/iPlnr80>
+
+- A Inteligência Artificial na Dermatolgia In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22-28. Sara D. Teixeira; Henrique Alvarenga da Silva.
+  <https://atenaeditora.com.br/catalogo/post/a-inteligencia-artificial-na-dermatologia>
+
+- Introdução às Terapias Construtivistas In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed.São Paulo: Editora Roca LTDA, 2004.  Henrique Alvarenga da Siva e Carlos Eduardo Reche.
+  Disponível na Amazon:  <https://a.co/d/hsFop9g>
+
+- Verdade, conhecimento e emoção nas abordagens cognitivas In: *Psicoterapias Cognitiva e Construtivista*. Novas Fronteiras da Prática Clínica ed.Porto Alegre: Artmed Editora S.A., 2003, p. 21-33.
+  Disponível na Amazon: <https://a.co/d/gYRhf9c>
+
+
+**Artigos completos publicados em periódicos**
+
 1.	DA SILVA, HENRIQUE ALVARENGA; MOURA, ALEXANDRE SAMPAIO
 Teaching introductory statistical classes in medical schools using RStudio and R statistical language: evaluating technology acceptance and change in attitude towards statistics. Journal of Statistics Education. , v.28, p.212 - 219, 2020. <https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1773354>
 2.	 SILVA, H. A.; TEIXEIRA JUNIOR, A. L.
