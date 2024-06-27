@@ -10,7 +10,7 @@ permalink: /publications/
   Disponível na Amazon: <https://a.co/d/8VVqZHi>
 
 - Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde
-  <http://www.henriquealvarenga.com/manual_r.github.io>
+  <http://www.henriquealvarenga.com/manual_r>
 
 - Condenação de Inocentes: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Curitiba: Juruá Editora, 2020.
   Disponível na Amazon: <https://a.co/d/bjpxTj8>
