@@ -4,6 +4,25 @@ title: Publicações
 permalink: /publications/
 ---
 
+**Material Didático - Cursos UFSJ**
+
+*Disciplina de Análise de dados com a linguagem R*  
+
+- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde
+  <http://www.henriquealvarenga.com/manual_r>
+
+
+*Disciplina de Psicopatologia*  
+
+
+
+*Disciplina de Psiquiatria*  
+
+- História da Bipolaridade do Poeta Robert Loweell
+  <https://www.henriquealvarenga.com/RobertLowell>
+
+
+
 **Livros Publicados**
 
 - Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde
