@@ -23,6 +23,9 @@ permalink: /publications/
 
 - História da Bipolaridade do Poeta Robert Loweell
   <https://www.henriquealvarenga.com/RobertLowell>
+  
+- As Fases Iniciais da Esquizofrenia - Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
+  <https://www.henriquealvarenga.com/Esquizofrenia>
 
 
 
@@ -43,6 +46,8 @@ permalink: /publications/
   Disponível em: <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
 
 **Capítulos de Livros**
+
+- Epidemiologia. In:*Psiquiatria de Ligação: Prática de uma especialidade integradora. 1ª ed. Belo Horizonte. Editora Ampla. Editores: Humberto Correa e Rodrigo Barreto Huguet. 2024. Disponível em: <https://loja.editoraampla.com.br/index.php?route=product/product&product_id=113> 
 
 - Introdução à neuropsicologia: neuroanatomia, neurofisiologia e plasticidade cerebral In: *Avaliação cognitiva: princípios e técnicas* . 1ª ed. São Paulo: Editora Hogrefe CETEPP, 2022, v.1, p. 13-47. Henrique Alvarenga da Silva; Matheus Silva Prenassi; Alexandre Siles Vargas Junior; Drielle Barbosa Pereira
   Disponível na Amazon:  <https://a.co/d/iPlnr80>
