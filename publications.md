@@ -29,32 +29,32 @@ permalink: /publications/
 
 **Palestras**
 
-- Redes Neurais e Inteligência Artificial. Das Redes de Hopfield ao chatGPT.
-  <https://youtu.be/rUPAathuvG8> Apresentado nos Seminários de Psiquiatria do IPSEMG em 02/04/2025.
+- Redes Neurais e Inteligência Artificial. Das Redes de Hopfield ao chatGPT
+  <https://youtu.be/rUPAathuvG8> Apresentado nos Seminários de Psiquiatria do IPSEMG em 02/04/2025
 
 - A Bipolaridade de Robert Lowell.
-  <https://youtu.be/_lFlILgNMgI> Apresentado nos Seminários de Psiquiatria do IPSEMG em 09/10/2024.
+  <https://youtu.be/_lFlILgNMgI> Apresentado nos Seminários de Psiquiatria do IPSEMG em 09/10/2024
   
-- Felicidade Comparada: O Mal-Estar de Viver em Meio à Felicidade dos Outros e o Impacto das Redes na Autoestima e Bem-Estar.
-  Apresentada na Campanha Setembro Amarelo da UFSJ em 19/09/2024.
+- Felicidade Comparada: O Mal-Estar de Viver em Meio à Felicidade dos Outros e o Impacto das Redes na Autoestima e Bem-Estar
+  Apresentada na Campanha Setembro Amarelo da UFSJ em 19/09/2024
 
-- Vozes e Visões na Construção da Cultura.
-  Apresentado nos Seminários de Psiquiatria do IPSEMG em 2023.
+- Vozes e Visões na Construção da Cultura
+  Apresentado nos Seminários de Psiquiatria do IPSEMG em 2023
 
-- Longe de Todos.
-  Palestra no "Brintellix Talks promovido" para Lundbeck em 2021.
+- Longe de Todos
+  Palestra no "Brintellix Talks promovido" para Lundbeck em 2021
 
-- A Medicina: uma ciência jovem.
-  Apresentado no Curso de Medicina do Centro Universitário de Pato Branco UNIDEP em 2020.
+- A Medicina: uma ciência jovem
+  Apresentado no Curso de Medicina do Centro Universitário de Pato Branco UNIDEP em 2020
 
-- Abordagem do Paciente com Ideação Suicida.
-  Apresentado em reunião ordinária da Liga Acadêmica de Habilidades Médicas (LAHMED) do curso de Medicina UFSJ em 2020.
+- Abordagem do Paciente com Ideação Suicida
+  Apresentado em reunião ordinária da Liga Acadêmica de Habilidades Médicas (LAHMED) do curso de Medicina UFSJ em 2020
 
-- Diagnósticos Psiquiátricos.
-  Apresentado em Reunião ordinária da Liga Acadêmica de Saúde Mental e Neurociências – LISANE em 2020.
+- Diagnósticos Psiquiátricos
+  Apresentado em Reunião ordinária da Liga Acadêmica de Saúde Mental e Neurociências – LISANE em 2020
 
-- Setembro Amarelo: Sinais de Risco e Ações de Cuidado.
-  Apresentado no evento do Setembro Amarelo do Uniptan em 2020.
+- Setembro Amarelo: Sinais de Risco e Ações de Cuidado
+  Apresentado no evento do Setembro Amarelo do Uniptan em 2020
 
 
 **Livros Publicados**
