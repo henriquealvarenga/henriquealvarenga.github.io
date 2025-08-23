@@ -14,6 +14,10 @@ permalink: /publications/
 - Aplicativo Online de Análise Visual de Regressão linear:
   <https://henriquealvarenga.shinyapps.io/LinearRegression/>
 
+*Disciplina MCM2 - Uniptan/Afya*  
+
+- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught):
+  <[http://www.henriquealvarenga.com/rnaught/](https://www.henriquealvarenga.com/rnaught/)>
 
 *Disciplina de Psicopatologia*  
 
