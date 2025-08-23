@@ -16,8 +16,8 @@ permalink: /publications/
 
 *Disciplina MCM2 - Uniptan/Afya*  
 
-- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught):
-  <[http://www.henriquealvarenga.com/rnaught/](https://www.henriquealvarenga.com/rnaught/)>
+- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught):  
+  <https://www.henriquealvarenga.com/rnaught/>
 
 *Disciplina de Psicopatologia*  
 
