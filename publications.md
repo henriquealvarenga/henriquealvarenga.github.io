@@ -8,25 +8,25 @@ permalink: /publications/
 
 *Disciplina de Análise de dados com a linguagem R*  
 
-- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde
+- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde  
   <http://www.henriquealvarenga.com/manual_r>
 
-- Aplicativo Online de Análise Visual de Regressão linear:
+- Aplicativo Online de Análise Visual de Regressão linear  
   <https://henriquealvarenga.shinyapps.io/LinearRegression/>
 
 *Disciplina MCM2 - Uniptan/Afya*  
 
-- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught):  
+- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught)    
   <https://www.henriquealvarenga.com/rnaught/>
 
 *Disciplina de Psicopatologia*  
 
-- O Exame do Estado Mental
+- O Exame do Estado Mental:  
   <https://www.henriquealvarenga.com/entrevista/>
 
 *Disciplina de Psiquiatria*  
 
-- História da Bipolaridade do Poeta Robert Loweell
+- História da Bipolaridade do Poeta Robert Loweell      
   <https://www.henriquealvarenga.com/RobertLowell>
   
 - As Fases Iniciais da Esquizofrenia - Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
