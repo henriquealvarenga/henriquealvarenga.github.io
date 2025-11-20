@@ -21,7 +21,8 @@ permalink: /publications/
 
 *Disciplina de Psicopatologia*  
 
-
+- O Exame do Estado Mental
+  <https://www.henriquealvarenga.com/entrevista/>
 
 *Disciplina de Psiquiatria*  
 
