@@ -33,7 +33,7 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/RobertLowell>
   
 - As Fases Iniciais da Esquizofrenia - Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
-  <https://www.henriquealvarenga.com/Esquizofrenia>
+  <https://www.henriquealvarenga.com/esquizofrenia>
 
 **Palestras**
 
