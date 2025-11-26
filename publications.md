@@ -21,8 +21,11 @@ permalink: /publications/
 
 *Disciplina de Psicopatologia*  
 
-- O Exame do Estado Mental    
-  <https://www.henriquealvarenga.com/entrevista/>
+- O Exame do Estado Mental     
+  <https://www.henriquealvarenga.com/entrevista/>  
+
+- Intencionalidade, Vontade, Impulsividade e Livre Arbítrio  
+  <https://www.henriquealvarenga.com/intencionalidade>  
 
 *Disciplina de Psiquiatria*  
 
@@ -72,6 +75,11 @@ permalink: /publications/
 
 - Condenação de Inocentes: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Curitiba: Juruá Editora, 2020.
   Disponível na Amazon: <https://a.co/d/bjpxTj8>
+
+- Being Withou Being. Reflections in IA life - A dialogue between Human and AI  
+  <https://www.henriquealvarenga.com/being>
+
+  
 
 **Dissertação de Mestrado**
 
