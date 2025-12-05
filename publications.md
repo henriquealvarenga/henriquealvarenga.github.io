@@ -79,6 +79,8 @@ permalink: /publications/
 - Being Withou Being. Reflections in IA life - A dialogue between Human and AI  
   <https://www.henriquealvarenga.com/being>
 
+- Manual de Git e GitHub: Do Zero ao Repositório Remoto  
+  <https://www.henriquealvarenga.com/github_manual>
   
 
 **Dissertação de Mestrado**
