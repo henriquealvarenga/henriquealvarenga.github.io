@@ -19,6 +19,9 @@ permalink: /publications/
 - Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught)    
   <https://www.henriquealvarenga.com/rnaught/>
 
+- Aplicativo online de Visualização de Distribuições estatísticas  
+  <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud/>  
+
 *Disciplina de Psicopatologia*  
 
 - O Exame do Estado Mental     
