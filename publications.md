@@ -9,7 +9,7 @@ permalink: /publications/
 *Disciplina de Análise de dados com a linguagem R*  
 
 - Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde  
-  <http://www.henriquealvarenga.com/manual_r>
+  <https://www.henriquealvarenga.com/manual_r>
 
 - Aplicativo Online de Análise Visual de Regressão linear  
   <https://henriquealvarenga.shinyapps.io/LinearRegression/>
