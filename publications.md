@@ -28,7 +28,10 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/entrevista/>  
 
 - Intencionalidade, Vontade, Impulsividade e Livre Arbítrio  
-  <https://www.henriquealvarenga.com/intencionalidade>  
+  <https://www.henriquealvarenga.com/intencionalidade>
+
+- Bounded Racionality Lab
+  <https://bounded-rationality-lab.base44.app>  
 
 *Disciplina de Psiquiatria*  
 
