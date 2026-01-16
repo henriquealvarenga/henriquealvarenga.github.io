@@ -31,7 +31,10 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/intencionalidade>
 
 - Bounded Racionality Lab   
-  <https://bounded-rationality-lab.base44.app>  
+  <https://bounded-rationality-lab.base44.app>
+  
+- Entangled Beliefs app  
+  <https://entangled-beliefs.base44.app> 
 
 *Disciplina de Psiquiatria*  
 
