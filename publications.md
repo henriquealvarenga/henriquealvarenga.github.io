@@ -4,6 +4,22 @@ title: Publicações
 permalink: /publications/
 ---
 
+
+**Material Didático - Cursos AFYA**
+
+*Disciplina MCM2 - Uniptan/Afya*  
+
+- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught)    
+  <https://www.henriquealvarenga.com/rnaught>
+
+- Aplicativo online de Visualização de Distribuições estatísticas  
+  <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
+
+- Revisões da Literatura na Medicina  
+  <http://www.henriquealvarenga.com/Literature_Review>
+
+
+
 **Material Didático - Cursos UFSJ**
 
 *Disciplina de Análise de dados com a linguagem R*  
@@ -12,20 +28,14 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/manual_r>
 
 - Aplicativo Online de Análise Visual de Regressão linear  
-  <https://henriquealvarenga.shinyapps.io/LinearRegression/>
+  <https://henriquealvarenga.shinyapps.io/LinearRegression>
 
-*Disciplina MCM2 - Uniptan/Afya*  
 
-- Aplicativo Online de Análise Visual da evolução do número de casos de uma epidemia com diferentes valores de R0 (R-naught)    
-  <https://www.henriquealvarenga.com/rnaught/>
-
-- Aplicativo online de Visualização de Distribuições estatísticas  
-  <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud/>  
 
 *Disciplina de Psicopatologia*  
 
 - O Exame do Estado Mental     
-  <https://www.henriquealvarenga.com/entrevista/>  
+  <https://www.henriquealvarenga.com/entrevista>  
 
 - Intencionalidade, Vontade, Impulsividade e Livre Arbítrio  
   <https://www.henriquealvarenga.com/intencionalidade>
@@ -34,7 +44,9 @@ permalink: /publications/
   <https://bounded-rationality-lab.base44.app>
   
 - Entangled Beliefs app  
-  <https://entangled-beliefs.base44.app> 
+  <https://entangled-beliefs.base44.app>
+
+  
 
 *Disciplina de Psiquiatria*  
 
@@ -43,6 +55,7 @@ permalink: /publications/
   
 - As Fases Iniciais da Esquizofrenia - Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
   <https://www.henriquealvarenga.com/esquizofrenia>
+
 
 **Palestras**
 
