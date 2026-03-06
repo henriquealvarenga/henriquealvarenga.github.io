@@ -18,7 +18,7 @@ permalink: /publications/
 - Revisões da Literatura na Medicina  
   <http://www.henriquealvarenga.com/Literature_Review>
 
-- Dos Dados aos Gráficos: Visualização estatística para profissionais de saúde.
+- Dos Dados aos Gráficos: Visualização estatística para profissionais de saúde.  
   <https://www.henriquealvarenga.com/graficos/> 
 
 
