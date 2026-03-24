@@ -122,25 +122,25 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/graficos/>
   ISBN: 978-65-01-98049-2 (versão digital)
 
-- Psicopatologia: Uma Breve Introdução 
+- Psicopatologia: Uma Breve Introdução   
   ISBN: 978-65-00-08881-6  (Setembro 2020)
 
-- Consciência: Uma Breve Introdução
+- Consciência: Uma Breve Introdução  
   ISBN: 978-65-00-08879-3  (Setembro 2020)
 
-- Delírio e Crença: Uma Breve Introdução
+- Delírio e Crença: Uma Breve Introdução  
   ISBN: 978-65-00-09060-4  (Setembro 2020)
 
-- Alucinações Vozes e Visões: Uma Breve Introdução  
+- Alucinações Vozes e Visões: Uma Breve Introdução    
   ISBN: 978-65-00-09059-8  (Setembro 2020)
 
-- Memória: Uma Breve Introdução
+- Memória: Uma Breve Introdução  
   ISBN: 978-65-00-08877-9  (Setembro 2020)
 
-- Personalidade: Uma Breve Introdução
+- Personalidade: Uma Breve Introdução  
   ISBN: 978-65-00-08880-9  (Setembro 2020)
 
-- Psicopatologia, Informação e Tecnologia 
+- Psicopatologia, Informação e Tecnologia   
   ISBN: 978-65-00-08878-6  (Setembro 2020)
 
 
