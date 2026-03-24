@@ -163,7 +163,7 @@ Disponível em: <https://loja.editoraampla.com.br/index.php?route=product/produc
 - A Inteligência Artificial na Dermatolgia In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22-28. Sara D. Teixeira; Henrique Alvarenga da Silva.  
   <https://atenaeditora.com.br/catalogo/post/a-inteligencia-artificial-na-dermatologia>
 
-- Introdução às Terapias Construtivistas In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed.São Paulo: Editora Roca LTDA, 2004.  Henrique Alvarenga da Siva e Carlos Eduardo Reche.  
+- Introdução às Terapias Construtivistas In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed.São Paulo: Editora Roca LTDA, 2011.  Henrique Alvarenga da Siva e Carlos Eduardo Reche.  
   Disponível na Amazon:  <https://a.co/d/hsFop9g>  
 
 - Verdade, conhecimento e emoção nas abordagens cognitivas In: *Psicoterapias Cognitiva e Construtivista*. Novas Fronteiras da Prática Clínica ed.Porto Alegre: Artmed Editora S.A., 2003, p. 21-33.  
