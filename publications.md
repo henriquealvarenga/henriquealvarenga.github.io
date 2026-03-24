@@ -95,38 +95,38 @@ permalink: /publications/
 
 **Livros Publicados**
 
-- Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde
+- Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde  
   Disponível na Amazon: <https://a.co/d/8VVqZHi>
   ISBN: ‎ 978-65-90-01320-0
 
-- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde
-  <http://www.henriquealvarenga.com/manual_r>
+- Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde  
+  <http://www.henriquealvarenga.com/manual_r>  
 
-- Condenação de Inocentes: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Curitiba: Juruá Editora, 2020.
-  Disponível na Amazon: <https://a.co/d/bjpxTj8>
-  ISBN: 978-65-56-05148-2
+- Condenação de Inocentes: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Curitiba: Juruá Editora, 2020.  
+  Disponível na Amazon: <https://a.co/d/bjpxTj8>  
+  ISBN: 978-65-56-05148-2  
   
-- Being Withou Being. Reflections in IA life - A dialogue between Human and AI  
-  <https://www.henriquealvarenga.com/being>
-  ISBN: 978-65-01-81979-2   
+- Being Withou Being. Reflections in IA life - A dialogue between Human and AI   
+  <https://www.henriquealvarenga.com/being>  
+  ISBN: 978-65-01-81979-2     
 
-- Manual de Git e GitHub: Do Zero ao Repositório Remoto  
-  <https://www.henriquealvarenga.com/github_manual>
-  ISBN: 978-65-01-83948-6
+- Manual de Git e GitHub: Do Zero ao Repositório Remoto   
+  <https://www.henriquealvarenga.com/github_manual>  
+  ISBN: 978-65-01-83948-6  
 
-- Revisões da Literatura na Medicina  
-  <http://www.henriquealvarenga.com/Literature_Review>  
-  ISBN: 978-65-01-96182-8 (versão digital)
+- Revisões da Literatura na Medicina    
+  <http://www.henriquealvarenga.com/Literature_Review>    
+  ISBN: 978-65-01-96182-8 (versão digital)  
 
-- Dos Dados aos Gráficos: Visualização estatística para profissionais de saúde.  
-  <https://www.henriquealvarenga.com/graficos/>
-  ISBN: 978-65-01-98049-2 (versão digital)
+- Dos Dados aos Gráficos: Visualização estatística para profissionais de saúde.    
+  <https://www.henriquealvarenga.com/graficos/>  
+  ISBN: 978-65-01-98049-2 (versão digital)  
 
-- Psicopatologia: Uma Breve Introdução   
-  ISBN: 978-65-00-08881-6  (Setembro 2020)
+- Psicopatologia: Uma Breve Introdução    
+  ISBN: 978-65-00-08881-6  (Setembro 2020)  
 
-- Consciência: Uma Breve Introdução  
-  ISBN: 978-65-00-08879-3  (Setembro 2020)
+- Consciência: Uma Breve Introdução    
+  ISBN: 978-65-00-08879-3  (Setembro 2020)  
 
 - Delírio e Crença: Uma Breve Introdução  
   ISBN: 978-65-00-09060-4  (Setembro 2020)
@@ -147,24 +147,25 @@ permalink: /publications/
 
 **Dissertação de Mestrado**
 
-- A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio. Dissertação de Mestrado, 2018.
+- A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio. Dissertação de Mestrado, 2018.  
   Disponível em: <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
 
 **Capítulos de Livros**
 
-- Epidemiologia. In:*Psiquiatria de Ligação: Prática de uma especialidade integradora. 1ª ed. Belo Horizonte. Editora Ampla. Editores: Humberto Correa e Rodrigo Barreto Huguet. 2024. Disponível em: <https://loja.editoraampla.com.br/index.php?route=product/product&product_id=113> 
+- Epidemiologia. In:*Psiquiatria de Ligação: Prática de uma especialidade integradora. 1ª ed. Belo Horizonte. Editora Ampla. Editores: Humberto Correa e Rodrigo Barreto Huguet. 2024.   
+Disponível em: <https://loja.editoraampla.com.br/index.php?route=product/product&product_id=113>   
 
-- Introdução à neuropsicologia: neuroanatomia, neurofisiologia e plasticidade cerebral In: *Avaliação cognitiva: princípios e técnicas* . 1ª ed. São Paulo: Editora Hogrefe CETEPP, 2022, v.1, p. 13-47. Henrique Alvarenga da Silva; Matheus Silva Prenassi; Alexandre Siles Vargas Junior; Drielle Barbosa Pereira
+- Introdução à neuropsicologia: neuroanatomia, neurofisiologia e plasticidade cerebral In: *Avaliação cognitiva: princípios e técnicas* . 1ª ed. São Paulo: Editora Hogrefe CETEPP, 2022, v.1, p. 13-47. Henrique Alvarenga da Silva; Matheus Silva Prenassi; Alexandre Siles Vargas Junior; Drielle Barbosa Pereira.  
   Disponível na Amazon:  <https://a.co/d/iPlnr80>
 
-- A Inteligência Artificial na Dermatolgia In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22-28. Sara D. Teixeira; Henrique Alvarenga da Silva.
+- A Inteligência Artificial na Dermatolgia In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22-28. Sara D. Teixeira; Henrique Alvarenga da Silva.  
   <https://atenaeditora.com.br/catalogo/post/a-inteligencia-artificial-na-dermatologia>
 
-- Introdução às Terapias Construtivistas In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed.São Paulo: Editora Roca LTDA, 2004.  Henrique Alvarenga da Siva e Carlos Eduardo Reche.
-  Disponível na Amazon:  <https://a.co/d/hsFop9g>
+- Introdução às Terapias Construtivistas In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed.São Paulo: Editora Roca LTDA, 2004.  Henrique Alvarenga da Siva e Carlos Eduardo Reche.  
+  Disponível na Amazon:  <https://a.co/d/hsFop9g>  
 
-- Verdade, conhecimento e emoção nas abordagens cognitivas In: *Psicoterapias Cognitiva e Construtivista*. Novas Fronteiras da Prática Clínica ed.Porto Alegre: Artmed Editora S.A., 2003, p. 21-33.
-  Disponível na Amazon: <https://a.co/d/gYRhf9c>
+- Verdade, conhecimento e emoção nas abordagens cognitivas In: *Psicoterapias Cognitiva e Construtivista*. Novas Fronteiras da Prática Clínica ed.Porto Alegre: Artmed Editora S.A., 2003, p. 21-33.  
+  Disponível na Amazon: <https://a.co/d/gYRhf9c>  
 
 
 **Artigos completos publicados em periódicos**
