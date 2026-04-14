@@ -23,8 +23,8 @@ permalink: /publications/
   <https://www.henriquealvarenga.com/graficos/>
   ISBN: 978-65-01-98049-2 (versão digital)
 
-- Tipos de Dados em Saúde: Da coleta à análise — entendendo variáveis para pesquisa em saúde.
-  <https://www.henriquealvarenga.com/tiposdedados>
+- Tipos de Dados em Saúde: Da coleta à análise — entendendo variáveis para pesquisa em saúde.  
+  <https://www.henriquealvarenga.com/tiposdedados>  
   ISBN: 978-65-02-05110-8 (versão digital)
 
 
