@@ -15,6 +15,9 @@ permalink: /publications/
 - Aplicativo online de Visualização de Distribuições estatísticas  
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
 
+- Aplicativo Online de Análise Visual de Regressão linear  
+  <https://henriquealvarenga.shinyapps.io/LinearRegression>
+
 - Revisões da Literatura na Medicina   
   <http://www.henriquealvarenga.com/Literature_Review>     
   ISBN: 978-65-01-96182-8 (versão digital)  
@@ -33,10 +36,11 @@ permalink: /publications/
 *Disciplina de Análise de dados com a linguagem R*  
 
 - Manual Basico da Linguagem R Introdução à análise de dados com a linguagem R, RStudio e Quarto para área da saúde  
-  <https://www.henriquealvarenga.com/manual_r>
-
-- Aplicativo Online de Análise Visual de Regressão linear  
-  <https://henriquealvarenga.shinyapps.io/LinearRegression>
+  <https://www.henriquealvarenga.com/manual_r> 
+  
+- Manual de Git e GitHub: Do Zero ao Repositório Remoto  
+  <https://www.henriquealvarenga.com/github_manual>   
+  ISBN: 978-65-01-83948-6 (versão digital)  
 
 
 
