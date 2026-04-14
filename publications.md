@@ -15,17 +15,17 @@ permalink: /publications/
 - Aplicativo online de Visualização de Distribuições estatísticas  
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
 
-- Revisões da Literatura na Medicina  
-  <http://www.henriquealvarenga.com/Literature_Review>  
-  ISBN: 978-65-01-96182-8 (versão digital)
+- Revisões da Literatura na Medicina   
+  <http://www.henriquealvarenga.com/Literature_Review>     
+  ISBN: 978-65-01-96182-8 (versão digital)  
 
 - Dos Dados aos Gráficos: Visualização estatística para profissionais de saúde.  
-  <https://www.henriquealvarenga.com/graficos/>
-  ISBN: 978-65-01-98049-2 (versão digital)
+  <https://www.henriquealvarenga.com/graficos/>  
+  ISBN: 978-65-01-98049-2 (versão digital)  
 
 - Tipos de Dados em Saúde: Da coleta à análise — entendendo variáveis para pesquisa em saúde.  
   <https://www.henriquealvarenga.com/tiposdedados>  
-  ISBN: 978-65-02-05110-8 (versão digital)
+  ISBN: 978-65-02-05110-8 (versão digital)  
 
 
 **Material Didático - Cursos UFSJ**
