@@ -1,0 +1,111 @@
+---
+pagetitle: "Aulas — Dr. Henrique Alvarenga"
+toc: true
+toc-location: right
+toc-title: "Disciplinas"
+---
+
+::: {.hero-editorial}
+::: {.eyebrow}
+Catálogo de ensino
+:::
+
+# Aulas e Material Didático
+
+::: {.dek}
+Conteúdo das disciplinas ministradas no UNIPTAN/Afya e na UFSJ — livros, manuais, aplicativos interativos e textos de apoio.
+:::
+:::
+
+::: {.faixa-contexto}
+::: {.contexto-item}
+**Curso**
+Medicina, com materiais para graduação, apoio didático e consulta orientada.
+:::
+
+::: {.contexto-item}
+**Formato**
+Livros, manuais, páginas temáticas, aplicativos interativos e textos de referência.
+:::
+
+::: {.contexto-item}
+**Organização**
+Agrupamento por disciplina, com itens descritos em padrão fixo e linguagem consistente.
+:::
+:::
+
+## <i class="bi bi-clipboard-data"></i> UNIPTAN / Afya — Métodos Científicos e de Pesquisa (MCM)
+
+Material didático desenvolvido para as disciplinas de **Métodos Científicos e de Pesquisa** do Curso de Medicina do UNIPTAN (grupo Afya).
+
+### Livros e manuais
+
+::: {.pub-list}
+- **Revisões da Literatura na Medicina**
+  <http://www.henriquealvarenga.com/Literature_Review>
+  [isbn]{.isbn}978-65-01-96182-8 (versão digital)[/isbn]{.isbn}
+
+- **Dos Dados aos Gráficos** — Visualização estatística para profissionais de saúde
+  <https://www.henriquealvarenga.com/graficos>
+  [isbn]{.isbn}978-65-01-98049-2 (versão digital)[/isbn]{.isbn}
+
+- **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde
+  <https://www.henriquealvarenga.com/tiposdedados>
+  [isbn]{.isbn}978-65-02-05110-8 (versão digital)[/isbn]{.isbn}
+:::
+
+### Aplicativos interativos
+
+::: {.pub-list}
+- **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**
+  <https://www.henriquealvarenga.com/rnaught>
+
+- **Visualização de Distribuições Estatísticas**
+  <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
+
+- **Análise Visual de Regressão Linear**
+  <https://henriquealvarenga.shinyapps.io/LinearRegression>
+:::
+
+## <i class="bi bi-code-slash"></i> UFSJ — Análise de Dados com a Linguagem R
+
+Material para a disciplina de análise de dados ministrada no Curso de Medicina da **Universidade Federal de São João del-Rei**.
+
+::: {.pub-list}
+- **Manual Básico da Linguagem R** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde
+  <https://www.henriquealvarenga.com/manual_r>
+
+- **Manual de Git e GitHub** — Do Zero ao Repositório Remoto
+  <https://www.henriquealvarenga.com/github_manual>
+  [isbn]{.isbn}978-65-01-83948-6 (versão digital)[/isbn]{.isbn}
+:::
+
+## <i class="bi bi-activity"></i> UFSJ — Psicopatologia
+
+Material didático da disciplina de **Psicopatologia** do Curso de Medicina da UFSJ.
+
+::: {.pub-list}
+- **O Exame do Estado Mental**
+  <https://www.henriquealvarenga.com/entrevista>
+
+- **Intencionalidade, Vontade, Impulsividade e Livre Arbítrio**
+  <https://www.henriquealvarenga.com/intencionalidade>
+
+- **Bounded Rationality Lab** — aplicativo interativo
+  <https://bounded-rationality-lab.base44.app>
+
+- **Entangled Beliefs app** — aplicativo interativo
+  <https://entangled-beliefs.base44.app>
+:::
+
+## <i class="bi bi-heart-pulse"></i> UFSJ — Psiquiatria
+
+Material didático da disciplina de **Psiquiatria** do Curso de Medicina da UFSJ.
+
+::: {.pub-list}
+- **História da Bipolaridade do Poeta Robert Lowell**
+  <https://www.henriquealvarenga.com/RobertLowell>
+
+- **As Fases Iniciais da Esquizofrenia** — Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
+  <https://www.henriquealvarenga.com/esquizofrenia>
+:::

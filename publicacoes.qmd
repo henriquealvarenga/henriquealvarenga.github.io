@@ -1,0 +1,176 @@
+---
+pagetitle: "Publicações — Dr. Henrique Alvarenga"
+toc: true
+toc-location: right
+toc-title: "Nesta página"
+---
+
+::: {.hero-editorial}
+::: {.eyebrow}
+Acervo autoral
+:::
+
+# Publicações
+
+::: {.dek}
+Livros, capítulos, artigos em periódicos e palestras — reunindo produção acadêmica, didática e ensaística ao longo da carreira.
+:::
+:::
+
+::: {.faixa-contexto}
+::: {.contexto-item}
+**Escopo**
+Livros, capítulos, artigos científicos, dissertação e intervenções públicas.
+:::
+
+::: {.contexto-item}
+**Critério**
+Agrupamento por tipo de produção, com referências completas e links quando disponíveis.
+:::
+
+::: {.contexto-item}
+**Função**
+Servir como arquivo de referência, memória intelectual e vitrine pública do trabalho.
+:::
+:::
+
+## <i class="bi bi-book-half"></i> Livros Publicados
+
+::: {.pub-list}
+- **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.
+  [Amazon](https://a.co/d/8VVqZHi) · [isbn]{.isbn}978-65-90-01320-0[/isbn]{.isbn}
+
+- **Manual Básico da Linguagem R** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.
+  <http://www.henriquealvarenga.com/manual_r>
+
+- **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.
+  [Amazon](https://a.co/d/bjpxTj8) · [isbn]{.isbn}978-65-56-05148-2[/isbn]{.isbn}
+
+- **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.
+  <https://www.henriquealvarenga.com/being> · [isbn]{.isbn}978-65-01-81979-2[/isbn]{.isbn}
+
+- **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.
+  <https://www.henriquealvarenga.com/github_manual> · [isbn]{.isbn}978-65-01-83948-6[/isbn]{.isbn}
+
+- **Revisões da Literatura na Medicina**.
+  <http://www.henriquealvarenga.com/Literature_Review> · [isbn]{.isbn}978-65-01-96182-8[/isbn]{.isbn}
+
+- **Dos Dados aos Gráficos**: Visualização estatística para profissionais de saúde.
+  <https://www.henriquealvarenga.com/graficos/> · [isbn]{.isbn}978-65-01-98049-2[/isbn]{.isbn}
+
+- **Psicopatologia: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08881-6[/isbn]{.isbn}
+
+- **Consciência: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08879-3[/isbn]{.isbn}
+
+- **Delírio e Crença: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-09060-4[/isbn]{.isbn}
+
+- **Alucinações, Vozes e Visões: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-09059-8[/isbn]{.isbn}
+
+- **Memória: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08877-9[/isbn]{.isbn}
+
+- **Personalidade: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08880-9[/isbn]{.isbn}
+
+- **Psicopatologia, Informação e Tecnologia** · [isbn]{.isbn}978-65-00-08878-6[/isbn]{.isbn}
+:::
+
+## <i class="bi bi-journals"></i> Capítulos de Livros
+
+::: {.pub-list}
+- **Epidemiologia**. In: *Psiquiatria de Ligação: Prática de uma especialidade integradora*. 1ª ed. Belo Horizonte: Editora Ampla, 2024.
+  <https://loja.editoraampla.com.br/index.php?route=product/product&product_id=113>
+
+- **Introdução à neuropsicologia**: neuroanatomia, neurofisiologia e plasticidade cerebral. In: *Avaliação cognitiva: princípios e técnicas*. 1ª ed. São Paulo: Hogrefe CETEPP, 2022, v.1, p. 13–47.
+  [Amazon](https://a.co/d/iPlnr80)
+
+- **A Inteligência Artificial na Dermatologia**. In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22–28.
+  <https://atenaeditora.com.br/catalogo/post/a-inteligencia-artificial-na-dermatologia>
+
+- **Introdução às Terapias Construtivistas**. In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed. São Paulo: Roca, 2011.
+  [Amazon](https://a.co/d/hsFop9g)
+
+- **Verdade, conhecimento e emoção nas abordagens cognitivas**. In: *Psicoterapias Cognitiva e Construtivista — Novas Fronteiras da Prática Clínica*. Porto Alegre: Artmed, 2003, p. 21–33.
+  [Amazon](https://a.co/d/gYRhf9c)
+:::
+
+## <i class="bi bi-file-earmark-text"></i> Artigos em Periódicos
+
+::: {.pub-list}
+- **Impacto da Síndrome do Impostor no âmbito acadêmico e profissional**. *Revista Eletrônica Acervo em Saúde*, v.24, e15278, 2024.
+  <https://acervomais.com.br/index.php/saude/article/view/15278>
+
+- **Teaching introductory statistical classes in medical schools using RStudio and R**: evaluating technology acceptance and change in attitude towards statistics. *Journal of Statistics Education*, v.28, p. 212–219, 2020.
+  <https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1773354>
+
+- **Transtorno Obsessivo-Compulsivo em Crianças e Adolescentes**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.5, p. 15–19, 2004.
+
+- **Clínica e Terapêutica do Primeiro Episódio de Esquizofrenia**. *Psiquiatria Biológica*, v.11, p. 91–97, 2003.
+
+- **Avaliação das Razões de Sucesso na Psicoterapia Cognitiva**. *Revista Brasileira de Psiquiatria*, v.25, p. 56, 2003.
+
+- **Novas Perspectivas no Tratamento da Esquizofrenia: Agonistas de Glicina**. *Psiquiatria Biológica*, v.10, p. 73–80, 2002.
+  <https://pesquisa.bvsalud.org/portal/resource/pt/lil-384025>
+
+- **Somatisation in primary care**. *BMJ*, v.324, p. 544, 2002.
+  <https://www.bmj.com/rapid-response/2011/10/28/somatisation-primary-care>
+
+- **Depressão e Esquizofrenia**. *Jornal Brasileiro de Psiquiatria*, v.51, p. 7–17, 2002.
+  <https://pesquisa.bvsalud.org/portal/resource/pt/lil-311180>
+
+- **Organização da Memória Semântica**: suas possíveis relações com as vivências de significação anormal. *Cadernos de Psicologia (UFMG)*, v.11, p. 87–92, 2001.
+  <https://pesquisa.bvsalud.org/portal/resource/pt/lil-341920>
+
+- **The First Episode of Schizophrenia**: Some Unanswered Questions. *BMJ*, v.321, 2000.
+  <https://www.bmj.com/rapid-response/2011/10/28/first-episode-schizophrenia-some-unanswered-questions>
+
+- **Psychiatric Classification is not a Problem**. *BMJ*, v.320, 2000.
+  <https://www.bmj.com/rapid-response/2011/10/28/psychiatric-classification-not-problem>
+
+- **Esquizofrenia de Início na Infância**: uma revisão da apresentação clínica e da evolução. *Jornal Brasileiro de Psiquiatria*, v.49, p. 387–393, 2000.
+  <https://psycnet.apa.org/record/2003-04907-004>
+
+- **Delírios, Organização Semântica e Vivências de Significação Idiossincrática**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.3, p. 55–62, 2000.
+
+- **Myocarditis and cardiomyopathy associated with clozapine**. *Psiquiatria Biológica*, v.8, p. 64, 2000.
+
+- **Sintomas Alucinatórios Persistentes**: uma discussão nosológica e psicopatológica. *Psiquiatria Biológica*, v.8, p. 9–14, 2000.
+:::
+
+## <i class="bi bi-file-earmark-ruled"></i> Dissertação de Mestrado
+
+::: {.pub-list}
+- **A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio**. Dissertação (Mestrado em Ensino em Saúde) — UNIFENAS, 2018.
+  <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
+:::
+
+## <i class="bi bi-mic"></i> Palestras
+
+::: {.pub-list}
+- **Redes Neurais e Inteligência Artificial: das redes de Hopfield ao ChatGPT**
+  Seminários de Psiquiatria do IPSEMG — 02/04/2025.
+  <https://youtu.be/rUPAathuvG8>
+
+- **A Bipolaridade de Robert Lowell**
+  Seminários de Psiquiatria do IPSEMG — 09/10/2024.
+  <https://youtu.be/_lFlILgNMgI>
+
+- **Felicidade Comparada**: O mal-estar de viver em meio à felicidade dos outros.
+  Setembro Amarelo da UFSJ — 19/09/2024.
+
+- **Vozes e Visões na Construção da Cultura**
+  Seminários de Psiquiatria do IPSEMG — 2023.
+
+- **Longe de Todos**
+  Brintellix Talks, Lundbeck — 2021.
+
+- **A Medicina: uma ciência jovem**
+  UNIDEP, Curso de Medicina — 2020.
+
+- **Abordagem do Paciente com Ideação Suicida**
+  LAHMED, UFSJ — 2020.
+
+- **Diagnósticos Psiquiátricos**
+  LISANE — 2020.
+
+- **Setembro Amarelo: Sinais de Risco e Ações de Cuidado**
+  UNIPTAN — 2020.
+:::

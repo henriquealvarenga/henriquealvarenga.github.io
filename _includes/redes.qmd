@@ -1,0 +1,6 @@
+::: {.social-buttons}
+[<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/henriquealvarengadasilva)
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/henriquealvarengasilva)
+[<i class="bi bi-youtube"></i> YouTube](https://www.youtube.com/@henriquealvarenga)
+[<i class="bi bi-mortarboard"></i> Lattes](http://lattes.cnpq.br/6147640440978297)
+:::

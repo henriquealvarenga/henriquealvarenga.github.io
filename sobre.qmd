@@ -1,0 +1,64 @@
+---
+pagetitle: "Sobre — Dr. Henrique Alvarenga"
+---
+
+::: {.hero-editorial}
+::: {.eyebrow}
+Perfil e trajetória
+:::
+
+# Formação Acadêmica
+
+::: {.dek}
+Trajetória em Medicina, Psiquiatria, ensino e pesquisa, com ênfase na interface entre ciência, tecnologia, filosofia, comportamento e emoção.
+:::
+:::
+
+::: {.faixa-contexto}
+::: {.contexto-item}
+**Formação**
+Medicina (UFMG, 1997), residência em Psiquiatria (HC-UFMG, 2000) e especialização em Psicoterapia Cognitiva-Construtivista.
+:::
+
+::: {.contexto-item}
+**Docência**
+Professor nos cursos de Medicina da UFSJ (Psiquiatria e Psicopatologia) e do UNIPTAN (Métodos Científicos e de Pesquisa).
+:::
+
+::: {.contexto-item}
+**Experiência**
+Mais de 25 anos de prática clínica em consultório particular em São João del-Rei.
+:::
+:::
+
+## <i class="bi bi-mortarboard"></i> Graduação e Especialização
+
+**Medicina** — Universidade Federal de Minas Gerais (UFMG), 1997.
+
+**Residência em Psiquiatria** — Hospital das Clínicas da UFMG, 2000.
+
+**Especialização em Psicoterapia Cognitiva-Construtivista** — Núcleo de Psicoterapia Cognitiva de São Paulo.
+
+**Bacharelado em Direito** — Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN), 2013.
+
+## <i class="bi bi-book"></i> Pós-Graduação
+
+**Mestrado em Ensino em Saúde** — UNIFENAS, 2018.
+*Dissertação: A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio.*
+Disponível em: <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
+
+## <i class="bi bi-easel2"></i> Atuação como Docente
+
+- **UFSJ — Universidade Federal de São João del-Rei**
+  Professor do Curso de Medicina nas disciplinas de *Psiquiatria* e *Psicopatologia*.
+
+- **UNIPTAN — Centro Universitário Presidente Tancredo de Almeida Neves**
+  Professor do Curso de Medicina nas disciplinas de *Métodos de Ensino e Pesquisa*.
+
+## <i class="bi bi-lightbulb"></i> Áreas de Interesse
+
+Psiquiatria clínica, neurociências, psicopatologia, pesquisa e análise de dados, com ênfase na interface entre **ciência, tecnologia, filosofia, comportamento e emoção**. Mais de 25 anos de experiência em prática clínica.
+
+## <i class="bi bi-person-vcard"></i> Currículo e redes
+
+{{< include _includes/redes.qmd >}}
