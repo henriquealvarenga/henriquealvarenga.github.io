@@ -1,5 +1,6 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+/.quarto/
+.DS_Store
+*.log
+_site/
+
+**/*.quarto_ipynb

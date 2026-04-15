@@ -1,0 +1,23 @@
+::: {.info-grid}
+::: {.info-card}
+**Telefone fixo**
+(32) 3371-7176
+:::
+
+::: {.info-card}
+**Celular / WhatsApp**
+[(32) 99981-2366](https://wa.me/5532999812366)
+:::
+
+::: {.info-card}
+**Email**
+[henriquealvarenga@gmail.com](mailto:henriquealvarenga@gmail.com)
+:::
+
+::: {.info-card}
+**Endereço**
+Rua Aureliano Mourão, 140
+Centro · São João del-Rei – MG
+(Perto da Igreja São Francisco)
+:::
+:::

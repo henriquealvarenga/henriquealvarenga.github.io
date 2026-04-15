@@ -1,0 +1,94 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+    - CNAME
+    - google610e27547249eb1a.html
+
+website:
+  title: "Dr. Henrique Alvarenga"
+  description: "Médico Psiquiatra • Professor UFSJ e UNIPTAN"
+  site-url: https://henriquealvarenga.com
+  favicon: images/retrato.jpeg
+  reader-mode: false
+  page-navigation: true
+
+  back-to-top-navigation: true
+
+  twitter-card: true
+  open-graph: true
+
+  navbar:
+    background: primary
+    logo: images/retrato.jpeg
+    logo-alt: "Dr. Henrique Alvarenga"
+    title: "Dr. Henrique Alvarenga"
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Sobre"
+        href: sobre.qmd
+      - text: "Aulas"
+        href: aulas.qmd
+      - text: "Publicações"
+        href: publicacoes.qmd
+      - text: "Contato"
+        href: contato.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/henriquealvarengasilva
+        aria-label: LinkedIn
+      - icon: instagram
+        href: https://www.instagram.com/henriquealvarengadasilva
+        aria-label: Instagram
+      - icon: youtube
+        href: https://www.youtube.com/@henriquealvarenga
+        aria-label: YouTube
+    tools-collapse: true
+    collapse-below: lg
+
+  page-footer:
+    background: light
+    left: |
+      © 2026 Dr. Henrique Alvarenga da Silva · CRM-MG 31.778 · RQE 8381
+    right: |
+      Site desenvolvido com [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px
+      sidebar-width: 250px
+      margin-width: 250px
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    include-after-body:
+      - text: |
+          <script>
+          // Fade-in on scroll
+          document.addEventListener("DOMContentLoaded", () => {
+            const io = new IntersectionObserver((entries) => {
+              entries.forEach(e => {
+                if (e.isIntersecting) {
+                  e.target.classList.add("is-visible");
+                  io.unobserve(e.target);
+                }
+              });
+            }, { threshold: 0.12 });
+            document.querySelectorAll("main h2, main .card, main .info-grid, main .gallery, main .map-wrap, main .pub-list, main .hero-banner, main figure").forEach(el => {
+              el.classList.add("fade-in");
+              io.observe(el);
+            });
+          });
+          </script>
+
+lang: pt-BR
