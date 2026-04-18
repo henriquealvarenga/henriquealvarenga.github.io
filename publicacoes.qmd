@@ -38,39 +38,39 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.
-  [Amazon](https://a.co/d/8VVqZHi) · [isbn]{.isbn}978-65-90-01320-0[/isbn]{.isbn}
+  [Amazon](https://a.co/d/8VVqZHi) ·  [ISBN 978-65-90-01320-0]{.isbn}
 
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.
   <http://www.henriquealvarenga.com/manual_r>
 
 - **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.
-  [Amazon](https://a.co/d/bjpxTj8) · [isbn]{.isbn}978-65-56-05148-2[/isbn]{.isbn}
+  [Amazon](https://a.co/d/bjpxTj8) · [ISBN 978-65-56-05148-2]{.isbn}
 
 - **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.
-  <https://www.henriquealvarenga.com/being> · [isbn]{.isbn}978-65-01-81979-2[/isbn]{.isbn}
+  <https://www.henriquealvarenga.com/being> · [ISBN 978-65-01-81979-2]{.isbn}
 
 - **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.
-  <https://www.henriquealvarenga.com/github_manual> · [isbn]{.isbn}978-65-01-83948-6[/isbn]{.isbn}
+  <https://www.henriquealvarenga.com/github_manual> · [ISBN 978-65-01-83948-6]{.isbn}
 
 - **Revisões da Literatura na Medicina**.
-  <http://www.henriquealvarenga.com/Literature_Review> · [isbn]{.isbn}978-65-01-96182-8[/isbn]{.isbn}
+  <http://www.henriquealvarenga.com/Literature_Review> · [ISBN 978-65-01-96182-8]{.isbn}
 
 - **Dos Dados aos Gráficos**: Visualização estatística para profissionais de saúde.
-  <https://www.henriquealvarenga.com/graficos/> · [isbn]{.isbn}978-65-01-98049-2[/isbn]{.isbn}
+  <https://www.henriquealvarenga.com/graficos/> · [ISBN 978-65-01-98049-2]{.isbn}
 
-- **Psicopatologia: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08881-6[/isbn]{.isbn}
+- **Psicopatologia: Uma Breve Introdução** · [ISBN 978-65-00-08881-6]{.isbn}
 
-- **Consciência: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08879-3[/isbn]{.isbn}
+- **Consciência: Uma Breve Introdução** · [ISBN 978-65-00-08879-3]{.isbn}
 
-- **Delírio e Crença: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-09060-4[/isbn]{.isbn}
+- **Delírio e Crença: Uma Breve Introdução** · [ISBN 978-65-00-09060-4]{.isbn}
 
-- **Alucinações, Vozes e Visões: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-09059-8[/isbn]{.isbn}
+- **Alucinações, Vozes e Visões: Uma Breve Introdução** · [ISBN 978-65-00-09059-8]{.isbn}
 
-- **Memória: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08877-9[/isbn]{.isbn}
+- **Memória: Uma Breve Introdução** · [ISBN 978-65-00-08877-9]{.isbn}
 
-- **Personalidade: Uma Breve Introdução** · [isbn]{.isbn}978-65-00-08880-9[/isbn]{.isbn}
+- **Personalidade: Uma Breve Introdução** · [ISBN 978-65-00-08880-9]{.isbn}
 
-- **Psicopatologia, Informação e Tecnologia** · [isbn]{.isbn}978-65-00-08878-6[/isbn]{.isbn}
+- **Psicopatologia, Informação e Tecnologia** · [ISBN 978-65-00-08878-6]{.isbn}
 :::
 
 ## <i class="bi bi-journals"></i> Capítulos de Livros

@@ -51,11 +51,11 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 
 - **Dos Dados aos Gráficos** — Visualização estatística para profissionais de saúde
   <https://www.henriquealvarenga.com/graficos>
-  [isbn]{.isbn}978-65-01-98049-2 (versão digital)[/isbn]{.isbn}
+  [ISBN 978-65-01-98049-2 (versão digital)]{.isbn}
 
 - **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde
   <https://www.henriquealvarenga.com/tiposdedados>
-  [isbn]{.isbn}978-65-02-05110-8 (versão digital)[/isbn]{.isbn}
+  [ISBN 978-65-02-05110-8 (versão digital)]{.isbn}
 :::
 
 ### Aplicativos interativos
@@ -81,7 +81,7 @@ Material para a disciplina de análise de dados ministrada no Curso de Medicina 
 
 - **Manual de Git e GitHub** — Do Zero ao Repositório Remoto
   <https://www.henriquealvarenga.com/github_manual>
-  [isbn]{.isbn}978-65-01-83948-6 (versão digital)[/isbn]{.isbn}
+  [ISBN 978-65-01-83948-6 (versão digital)]{.isbn}
 :::
 
 ## <i class="bi bi-activity"></i> UFSJ — Psicopatologia
