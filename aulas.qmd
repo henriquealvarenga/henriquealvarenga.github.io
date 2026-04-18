@@ -41,6 +41,10 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 ### Livros e manuais
 
 ::: {.pub-list}
+
+- **Indicadores de Saúde: Conceitos, Métodos e Aplicações com Dados do Brasil**
+  <https://henriquealvarenga.com/indicadores>
+
 - **Revisões da Literatura na Medicina**
   <http://www.henriquealvarenga.com/Literature_Review>
   [isbn]{.isbn}978-65-01-96182-8 (versão digital)[/isbn]{.isbn}
