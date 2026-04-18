@@ -46,7 +46,7 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
   <https://henriquealvarenga.com/indicadores>
 
 - **Revisões da Literatura na Medicina**  
-  <http://www.henriquealvarenga.com/Literature_Review>
+  <http://www.henriquealvarenga.com/Literature_Review>   
   [ISBN 978-65-01-96182-8 (versão digital)]{.isbn}
 
 - **Dos Dados aos Gráficos** — Visualização estatística para profissionais de saúde
