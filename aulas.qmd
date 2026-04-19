@@ -69,6 +69,13 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 
 - **Análise Visual de Regressão Linear**
   <https://henriquealvarenga.shinyapps.io/LinearRegression>
+
+- **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**   
+  *Uma versão aprimorada do app de Análise Visual de regressão linear*   
+  <https://henriquealvarenga.com/linear-regression-lab>   
+
+
+
 :::
 
 ## <i class="bi bi-code-slash"></i> UFSJ — Análise de Dados com a Linguagem R
