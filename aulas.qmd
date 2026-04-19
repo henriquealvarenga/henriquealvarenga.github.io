@@ -64,10 +64,10 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 - **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**
   <https://www.henriquealvarenga.com/rnaught>
 
-- **Visualização de Distribuições Estatísticas**
+- **Visualização de Distribuições Estatísticas**   
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
 
-- **Análise Visual de Regressão Linear**
+- **Análise Visual de Regressão Linear**   
   <https://henriquealvarenga.shinyapps.io/LinearRegression>
 
 - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**   
