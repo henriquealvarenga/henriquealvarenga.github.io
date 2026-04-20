@@ -43,7 +43,8 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 ::: {.pub-list}
 
 - **Indicadores de Saúde: Conceitos, Métodos e Aplicações com Dados do Brasil**
-  <https://henriquealvarenga.com/indicadores>
+  <https://henriquealvarenga.com/indicadores>   
+  [ISBN 978-65-02-06225-8 (versão digital)]{.isbn}
 
 - **Revisões da Literatura na Medicina**  
   <http://www.henriquealvarenga.com/Literature_Review>   
@@ -73,7 +74,7 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**   
   *Uma versão aprimorada do app de Análise Visual de regressão linear*   
   <https://henriquealvarenga.com/linear-regression-lab>   
-
+  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
 
 
 :::
@@ -103,7 +104,9 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
   <https://www.henriquealvarenga.com/intencionalidade>
 
 - **Bounded Rationality Lab** — aplicativo interativo
-  <https://bounded-rationality-lab.base44.app>
+  <https://bounded-rationality-lab.base44.app>    
+[![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
+
 
 - **Entangled Beliefs app** — aplicativo interativo
   <https://entangled-beliefs.base44.app>
