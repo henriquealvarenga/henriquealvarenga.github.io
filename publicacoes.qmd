@@ -37,13 +37,17 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 ## <i class="bi bi-book-half"></i> Livros Publicados
 
 ::: {.pub-list}
+
+- **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
+  <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
+
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.
   [Amazon](https://a.co/d/8VVqZHi) ·  [ISBN 978-65-90-01320-0]{.isbn}
 
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.
   <http://www.henriquealvarenga.com/manual_r>
 
-- **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.
+- **Condenação de Inocentes** - O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.
   [Amazon](https://a.co/d/bjpxTj8) · [ISBN 978-65-56-05148-2]{.isbn}
 
 - **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.

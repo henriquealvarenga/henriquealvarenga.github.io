@@ -42,7 +42,10 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 
 ::: {.pub-list}
 
-- **Indicadores de Saúde: Conceitos, Métodos e Aplicações com Dados do Brasil**
+- **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
+  <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
+
+- **Indicadores de Saúde** - Conceitos, Métodos e Aplicações com Dados do Brasil
   <https://henriquealvarenga.com/indicadores>
 
 - **Revisões da Literatura na Medicina**  
