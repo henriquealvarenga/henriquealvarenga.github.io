@@ -41,6 +41,9 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 - **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
   <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
 
+- **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
+  <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
+
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.
   [Amazon](https://a.co/d/8VVqZHi) ·  [ISBN 978-65-90-01320-0]{.isbn}
 
