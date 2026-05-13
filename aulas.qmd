@@ -93,6 +93,11 @@ Material para a disciplina de análise de dados ministrada no Curso de Medicina 
 - **Manual de Git e GitHub** — Do Zero ao Repositório Remoto
   <https://www.henriquealvarenga.com/github_manual>
   [ISBN 978-65-01-83948-6 (versão digital)]{.isbn}
+
+- **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e quarto para publicação reprodutível na web.
+  <https://www.henriquealvarenga.com/vibe-coding>
+  [ISBN xxx-xx-xx-xxxxx-x (versão digital)]{.isbn} - Ainda em fase de Cadastramento
+
 :::
 
 ## <i class="bi bi-activity"></i> UFSJ — Psicopatologia
@@ -110,9 +115,30 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
   <https://bounded-rationality-lab.base44.app>    
 [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
 
-
 - **Entangled Beliefs app** — aplicativo interativo
   <https://entangled-beliefs.base44.app>
+
+- **Psicopatologia: Uma Breve Introdução**
+  [ISBN 978-65-00-08881-6]{.isbn}
+
+- **Consciência: Uma Breve Introdução** 
+  [ISBN 978-65-00-08879-3]{.isbn}
+
+- **Delírio e Crença: Uma Breve Introdução** 
+  [ISBN 978-65-00-09060-4]{.isbn}
+
+- **Alucinações, Vozes e Visões: Uma Breve Introdução** 
+  [ISBN 978-65-00-09059-8]{.isbn}
+
+- **Memória: Uma Breve Introdução** 
+  [ISBN 978-65-00-08877-9]{.isbn}
+
+- **Personalidade: Uma Breve Introdução** 
+  [ISBN 978-65-00-08880-9]{.isbn}
+
+- **Psicopatologia, Informação e Tecnologia**  
+  [ISBN 978-65-00-08878-6]{.isbn}
+
 :::
 
 ## <i class="bi bi-heart-pulse"></i> UFSJ — Psiquiatria

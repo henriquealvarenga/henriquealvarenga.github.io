@@ -38,6 +38,10 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
+- **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e quarto para publicação reprodutível na web.
+  <https://www.henriquealvarenga.com/vibe-coding>
+  [ISBN xxx-xx-xx-xxxxx-x (versão digital)]{.isbn} - Ainda em fase de Cadastramento
+
 - **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
   <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
 
@@ -152,6 +156,11 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 ## <i class="bi bi-mic"></i> Palestras
 
 ::: {.pub-list}
+
+- **Vibe Coding na Pesquisa Científica**
+  Seminários de Psiquiatria do IPSEMG — 13/05/2026.
+  <https://youtu.be/RsucEUSA54M>
+
 - **Redes Neurais e Inteligência Artificial: das redes de Hopfield ao ChatGPT**
   Seminários de Psiquiatria do IPSEMG — 02/04/2025.
   <https://youtu.be/rUPAathuvG8>
