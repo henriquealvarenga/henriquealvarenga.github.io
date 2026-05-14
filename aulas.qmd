@@ -43,7 +43,8 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 ::: {.pub-list}
 
 - **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
-  <http://www.henriquealvarenga.com/causalidade> ·  [ISBN 978-65-02-09855-4]{.isbn}
+  <http://www.henriquealvarenga.com/causalidade>   
+  [ISBN 978-65-02-09855-4]{.isbn}
 
 - **Indicadores de Saúde: Conceitos, Métodos e Aplicações com Dados do Brasil**
   <https://henriquealvarenga.com/indicadores>   
@@ -54,11 +55,11 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
   [ISBN 978-65-01-96182-8 (versão digital)]{.isbn}
 
 - **Dos Dados aos Gráficos** — Visualização estatística para profissionais de saúde
-  <https://www.henriquealvarenga.com/graficos>
+  <https://www.henriquealvarenga.com/graficos>   
   [ISBN 978-65-01-98049-2 (versão digital)]{.isbn}
 
 - **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde
-  <https://www.henriquealvarenga.com/tiposdedados>
+  <https://www.henriquealvarenga.com/tiposdedados>   
   [ISBN 978-65-02-05110-8 (versão digital)]{.isbn}
 :::
 
@@ -91,7 +92,7 @@ Material para a disciplina de análise de dados ministrada no Curso de Medicina 
   <https://www.henriquealvarenga.com/manual_r>
 
 - **Manual de Git e GitHub** — Do Zero ao Repositório Remoto
-  <https://www.henriquealvarenga.com/github_manual>
+  <https://www.henriquealvarenga.com/github_manual>   
   [ISBN 978-65-01-83948-6 (versão digital)]{.isbn}
 
 - **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e quarto para publicação reprodutível na web.
@@ -118,25 +119,25 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 - **Entangled Beliefs app** — aplicativo interativo
   <https://entangled-beliefs.base44.app>
 
-- **Psicopatologia: Uma Breve Introdução**
+- **Psicopatologia: Uma Breve Introdução**  
   [ISBN 978-65-00-08881-6]{.isbn}
 
-- **Consciência: Uma Breve Introdução** 
+- **Consciência: Uma Breve Introdução**  
   [ISBN 978-65-00-08879-3]{.isbn}
 
-- **Delírio e Crença: Uma Breve Introdução** 
+- **Delírio e Crença: Uma Breve Introdução**  
   [ISBN 978-65-00-09060-4]{.isbn}
 
-- **Alucinações, Vozes e Visões: Uma Breve Introdução** 
+- **Alucinações, Vozes e Visões: Uma Breve Introdução**  
   [ISBN 978-65-00-09059-8]{.isbn}
 
-- **Memória: Uma Breve Introdução** 
+- **Memória: Uma Breve Introdução**  
   [ISBN 978-65-00-08877-9]{.isbn}
 
-- **Personalidade: Uma Breve Introdução** 
+- **Personalidade: Uma Breve Introdução**  
   [ISBN 978-65-00-08880-9]{.isbn}
 
-- **Psicopatologia, Informação e Tecnologia**  
+- **Psicopatologia, Informação e Tecnologia**   
   [ISBN 978-65-00-08878-6]{.isbn}
 
 :::
@@ -146,7 +147,7 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 Material didático da disciplina de **Psiquiatria** do Curso de Medicina da UFSJ.
 
 ::: {.pub-list}
-- **História da Bipolaridade do Poeta Robert Lowell**
+- **História da Bipolaridade do Poeta Robert Lowell**   
   <https://www.henriquealvarenga.com/RobertLowell>
 
 - **As Fases Iniciais da Esquizofrenia** — Emil Kraepelin, Kurt Schneider, Klaus Conrad, Gerd Huber
