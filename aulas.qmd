@@ -106,17 +106,17 @@ Material para a disciplina de análise de dados ministrada no Curso de Medicina 
 Material didático da disciplina de **Psicopatologia** do Curso de Medicina da UFSJ.
 
 ::: {.pub-list}
-- **O Exame do Estado Mental**
+- **O Exame do Estado Mental**  
   <https://www.henriquealvarenga.com/entrevista>
 
 - **Intencionalidade, Vontade, Impulsividade e Livre Arbítrio**
   <https://www.henriquealvarenga.com/intencionalidade>
 
-- **Bounded Rationality Lab** — aplicativo interativo
+- **Bounded Rationality Lab** — aplicativo interativo  
   <https://bounded-rationality-lab.base44.app>    
 [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
 
-- **Entangled Beliefs app** — aplicativo interativo
+- **Entangled Beliefs app** — aplicativo interativo  
   <https://entangled-beliefs.base44.app>
 
 - **Psicopatologia: Uma Breve Introdução**  
