@@ -38,72 +38,72 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
-- **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e Quarto para publicação reprodutível na web.
-  <https://www.henriquealvarenga.com/vibe-coding>
+- **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e Quarto para publicação reprodutível na web.\
+  <https://www.henriquealvarenga.com/vibe-coding>\
   [ISBN xxx-xx-xx-xxxxx-x (versão digital)]{.isbn} — Ainda em fase de Cadastramento
 
-- **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.
-  <http://www.henriquealvarenga.com/causalidade>
+- **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.\   
+  <http://www.henriquealvarenga.com/causalidade>\
   [ISBN 978-65-02-09855-4]{.isbn}
 
-- **A Bipolaridade de Robert Lowell**
-  <https://www.henriquealvarenga.com/RobertLowell>
+- **A Bipolaridade de Robert Lowell**\
+  <https://www.henriquealvarenga.com/RobertLowell>\ 
 
-- **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.
-  [Amazon](https://a.co/d/8VVqZHi)
+- **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.\   
+  [Amazon](https://a.co/d/8VVqZHi)\
   [ISBN 978-65-90-01320-0]{.isbn}
 
-- **Manual Básico da Linguagem R - 3ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.
-  <https://www.henriquealvarenga.com/manual_r>
+- **Manual Básico da Linguagem R - 3ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.\
+  <https://www.henriquealvarenga.com/manual_r>\
   [ISBN xxx-xx-xx-xxxxx-x]{.isbn} — Ainda em fase de Cadastramento
 
-- **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.
-  <https://www.henriquealvarenga.com/github_manual>
+- **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.\
+  <https://www.henriquealvarenga.com/github_manual>\
   [ISBN 978-65-01-83948-6]{.isbn}
 
-- **Indicadores de Saúde**: Conceitos, Métodos e Aplicações com Dados do Brasil.
-  <https://henriquealvarenga.com/indicadores>
+- **Indicadores de Saúde**: Conceitos, Métodos e Aplicações com Dados do Brasil.\ 
+  <https://henriquealvarenga.com/indicadores>\
   [ISBN 978-65-02-06225-8 (versão digital)]{.isbn}
 
-- **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde.
-  <https://www.henriquealvarenga.com/tiposdedados>
+- **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde.\
+  <https://www.henriquealvarenga.com/tiposdedados>\
   [ISBN 978-65-02-05110-8 (versão digital)]{.isbn}
 
-- **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.
-  [Amazon](https://a.co/d/bjpxTj8)
+- **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.\
+  [Amazon](https://a.co/d/bjpxTj8)\
   [ISBN 978-65-56-05148-2]{.isbn}
 
-- **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.
-  <https://www.henriquealvarenga.com/being>
+- **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.\
+  <https://www.henriquealvarenga.com/being>\
   [ISBN 978-65-01-81979-2]{.isbn}
 
 - **Revisões da Literatura na Medicina**.
-  <http://www.henriquealvarenga.com/Literature_Review>
+  <http://www.henriquealvarenga.com/Literature_Review>\
   [ISBN 978-65-01-96182-8]{.isbn}
 
-- **Dos Dados aos Gráficos**: Visualização estatística para profissionais de saúde.
-  <https://www.henriquealvarenga.com/graficos/>
+- **Dos Dados aos Gráficos**: Visualização estatística para profissionais de saúde.\
+  <https://www.henriquealvarenga.com/graficos/>\
   [ISBN 978-65-01-98049-2]{.isbn}
 
-- **Psicopatologia: Uma Breve Introdução**
+- **Psicopatologia: Uma Breve Introdução**\
   [ISBN 978-65-00-08881-6]{.isbn}
 
-- **Consciência: Uma Breve Introdução**
+- **Consciência: Uma Breve Introdução**\
   [ISBN 978-65-00-08879-3]{.isbn}
 
-- **Delírio e Crença: Uma Breve Introdução**
+- **Delírio e Crença: Uma Breve Introdução**\
   [ISBN 978-65-00-09060-4]{.isbn}
 
-- **Alucinações, Vozes e Visões: Uma Breve Introdução**
+- **Alucinações, Vozes e Visões: Uma Breve Introdução**\
   [ISBN 978-65-00-09059-8]{.isbn}
 
-- **Memória: Uma Breve Introdução**
+- **Memória: Uma Breve Introdução**\
   [ISBN 978-65-00-08877-9]{.isbn}
 
-- **Personalidade: Uma Breve Introdução**
+- **Personalidade: Uma Breve Introdução**\
   [ISBN 978-65-00-08880-9]{.isbn}
 
-- **Psicopatologia, Informação e Tecnologia**
+- **Psicopatologia, Informação e Tecnologia**\
   [ISBN 978-65-00-08878-6]{.isbn}
 
 :::
@@ -111,19 +111,19 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 ## <i class="bi bi-journals"></i> Capítulos de Livros
 
 ::: {.pub-list}
-- **Epidemiologia**. In: *Psiquiatria de Ligação: Prática de uma especialidade integradora*. 1ª ed. Belo Horizonte: Editora Ampla, 2024.
+- **Epidemiologia**. In: *Psiquiatria de Ligação: Prática de uma especialidade integradora*. 1ª ed. Belo Horizonte: Editora Ampla, 2024.\
   <https://loja.editoraampla.com.br/index.php?route=product/product&product_id=113>
 
-- **Introdução à neuropsicologia**: neuroanatomia, neurofisiologia e plasticidade cerebral. In: *Avaliação cognitiva: princípios e técnicas*. 1ª ed. São Paulo: Hogrefe CETEPP, 2022, v.1, p. 13–47.
+- **Introdução à neuropsicologia**: neuroanatomia, neurofisiologia e plasticidade cerebral. In: *Avaliação cognitiva: princípios e técnicas*. 1ª ed. São Paulo: Hogrefe CETEPP, 2022, v.1, p. 13–47.\
   [Amazon](https://a.co/d/iPlnr80)
 
-- **A Inteligência Artificial na Dermatologia**. In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22–28.
+- **A Inteligência Artificial na Dermatologia**. In: *Ciências da saúde: Da Teoria à Prática*. 1ª ed. Ponta Grossa: Atena, 2019, v.1, p. 22–28.\
   <https://atenaeditora.com.br/catalogo/post/a-inteligencia-artificial-na-dermatologia>
 
-- **Introdução às Terapias Construtivistas**. In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed. São Paulo: Roca, 2011.
+- **Introdução às Terapias Construtivistas**. In: *Terapia Comportamental e Cognitivo-Comportamental*. 1ª ed. São Paulo: Roca, 2011.\
   [Amazon](https://a.co/d/hsFop9g)
 
-- **Verdade, conhecimento e emoção nas abordagens cognitivas**. In: *Psicoterapias Cognitiva e Construtivista — Novas Fronteiras da Prática Clínica*. Porto Alegre: Artmed, 2003, p. 21–33.
+- **Verdade, conhecimento e emoção nas abordagens cognitivas**. In: *Psicoterapias Cognitiva e Construtivista — Novas Fronteiras da Prática Clínica*. Porto Alegre: Artmed, 2003, p. 21–33.\
   [Amazon](https://a.co/d/gYRhf9c)
 :::
 
@@ -131,43 +131,43 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
-- **Transtorno Obsessivo-Compulsivo em Crianças e Adolescentes**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.5, p. 15–19, 2004.
+- **Transtorno Obsessivo-Compulsivo em Crianças e Adolescentes**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.5, p. 15–19, 2004.\
 
-- **Clínica e Terapêutica do Primeiro Episódio de Esquizofrenia**. *Psiquiatria Biológica*, v.11, p. 91–97, 2003.
+- **Clínica e Terapêutica do Primeiro Episódio de Esquizofrenia**. *Psiquiatria Biológica*, v.11, p. 91–97, 2003.\
 
-- **Avaliação das Razões de Sucesso na Psicoterapia Cognitiva**. *Revista Brasileira de Psiquiatria*, v.25, p. 56, 2003.
+- **Avaliação das Razões de Sucesso na Psicoterapia Cognitiva**. *Revista Brasileira de Psiquiatria*, v.25, p. 56, 2003.\
 
-- **Novas Perspectivas no Tratamento da Esquizofrenia: Agonistas de Glicina**. *Psiquiatria Biológica*, v.10, p. 73–80, 2002.
+- **Novas Perspectivas no Tratamento da Esquizofrenia: Agonistas de Glicina**. *Psiquiatria Biológica*, v.10, p. 73–80, 2002.\
   <https://pesquisa.bvsalud.org/portal/resource/pt/lil-384025>
 
-- **Somatisation in primary care**. *BMJ*, v.324, p. 544, 2002.
+- **Somatisation in primary care**. *BMJ*, v.324, p. 544, 2002.\
   <https://www.bmj.com/rapid-response/2011/10/28/somatisation-primary-care>
 
-- **Depressão e Esquizofrenia**. *Jornal Brasileiro de Psiquiatria*, v.51, p. 7–17, 2002.
+- **Depressão e Esquizofrenia**. *Jornal Brasileiro de Psiquiatria*, v.51, p. 7–17, 2002.\
   <https://pesquisa.bvsalud.org/portal/resource/pt/lil-311180>
 
-- **Organização da Memória Semântica**: suas possíveis relações com as vivências de significação anormal. *Cadernos de Psicologia (UFMG)*, v.11, p. 87–92, 2001.
+- **Organização da Memória Semântica**: suas possíveis relações com as vivências de significação anormal. *Cadernos de Psicologia (UFMG)*, v.11, p. 87–92, 2001.\
   <https://pesquisa.bvsalud.org/portal/resource/pt/lil-341920>
 
-- **The First Episode of Schizophrenia**: Some Unanswered Questions. *BMJ*, v.321, 2000.
+- **The First Episode of Schizophrenia**: Some Unanswered Questions. *BMJ*, v.321, 2000.\
   <https://www.bmj.com/rapid-response/2011/10/28/first-episode-schizophrenia-some-unanswered-questions>
 
-- **Psychiatric Classification is not a Problem**. *BMJ*, v.320, 2000.
+- **Psychiatric Classification is not a Problem**. *BMJ*, v.320, 2000.\
   <https://www.bmj.com/rapid-response/2011/10/28/psychiatric-classification-not-problem>
 
-- **Esquizofrenia de Início na Infância**: uma revisão da apresentação clínica e da evolução. *Jornal Brasileiro de Psiquiatria*, v.49, p. 387–393, 2000.
+- **Esquizofrenia de Início na Infância**: uma revisão da apresentação clínica e da evolução. *Jornal Brasileiro de Psiquiatria*, v.49, p. 387–393, 2000.\
   <https://psycnet.apa.org/record/2003-04907-004>
 
-- **Delírios, Organização Semântica e Vivências de Significação Idiossincrática**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.3, p. 55–62, 2000.
+- **Delírios, Organização Semântica e Vivências de Significação Idiossincrática**. *Revista de Psiquiatria & Psicanálise com Crianças & Adolescentes*, v.3, p. 55–62, 2000.\
 
-- **Myocarditis and cardiomyopathy associated with clozapine**. *Psiquiatria Biológica*, v.8, p. 64, 2000.
+- **Myocarditis and cardiomyopathy associated with clozapine**. *Psiquiatria Biológica*, v.8, p. 64, 2000.\
 
-- **Sintomas Alucinatórios Persistentes**: uma discussão nosológica e psicopatológica. *Psiquiatria Biológica*, v.8, p. 9–14, 2000.
+- **Sintomas Alucinatórios Persistentes**: uma discussão nosológica e psicopatológica. *Psiquiatria Biológica*, v.8, p. 9–14, 2000.\
 
-- **Teaching introductory statistical classes in medical schools using RStudio and R**: evaluating technology acceptance and change in attitude towards statistics. *Journal of Statistics Education*, v.28, p. 212–219, 2020.
+- **Teaching introductory statistical classes in medical schools using RStudio and R**: evaluating technology acceptance and change in attitude towards statistics. *Journal of Statistics Education*, v.28, p. 212–219, 2020.\
   <https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1773354>
 
-- **Impacto da Síndrome do Impostor no âmbito acadêmico e profissional**. *Revista Eletrônica Acervo em Saúde*, v.24, e15278, 2024.
+- **Impacto da Síndrome do Impostor no âmbito acadêmico e profissional**. *Revista Eletrônica Acervo em Saúde*, v.24, e15278, 2024.\
   <https://acervomais.com.br/index.php/saude/article/view/15278>
 
 :::
@@ -175,7 +175,7 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 ## <i class="bi bi-file-earmark-ruled"></i> Dissertação de Mestrado
 
 ::: {.pub-list}
-- **A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio**. Dissertação (Mestrado em Ensino em Saúde) — UNIFENAS, 2018.
+- **A mudança na atitude frente à estatística em graduandos de medicina em um curso introdutório de estatística utilizando o RStudio**. Dissertação (Mestrado em Ensino em Saúde) — UNIFENAS, 2018.\
   <http://tede2.unifenas.br:8080/jspui/handle/jspui/213>
 :::
 
@@ -183,37 +183,37 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
-- **Vibe Coding na Pesquisa Científica**
-  Seminários de Psiquiatria do IPSEMG — 13/05/2026.
+- **Vibe Coding na Pesquisa Científica**\
+  Seminários de Psiquiatria do IPSEMG — 13/05/2026.\
   <https://youtu.be/RsucEUSA54M>
 
-- **Redes Neurais e Inteligência Artificial: das redes de Hopfield ao ChatGPT**
-  Seminários de Psiquiatria do IPSEMG — 02/04/2025.
+- **Redes Neurais e Inteligência Artificial: das redes de Hopfield ao ChatGPT**\
+  Seminários de Psiquiatria do IPSEMG — 02/04/2025.\
   <https://youtu.be/rUPAathuvG8>
 
-- **A Bipolaridade de Robert Lowell**
-  Seminários de Psiquiatria do IPSEMG — 09/10/2024.
+- **A Bipolaridade de Robert Lowell**\
+  Seminários de Psiquiatria do IPSEMG — 09/10/2024.\
   <https://youtu.be/_lFlILgNMgI>
 
-- **Felicidade Comparada**: O mal-estar de viver em meio à felicidade dos outros.
+- **Felicidade Comparada**: O mal-estar de viver em meio à felicidade dos outros.\
   Setembro Amarelo da UFSJ — 19/09/2024.
 
-- **Vozes e Visões na Construção da Cultura**
+- **Vozes e Visões na Construção da Cultura**\
   Seminários de Psiquiatria do IPSEMG — 2023.
 
-- **Longe de Todos**
+- **Longe de Todos**\
   Brintellix Talks, Lundbeck — 2021.
 
-- **A Medicina: uma ciência jovem**
+- **A Medicina: uma ciência jovem**\
   UNIDEP, Curso de Medicina — 2020.
 
-- **Abordagem do Paciente com Ideação Suicida**
+- **Abordagem do Paciente com Ideação Suicida**\
   LAHMED, UFSJ — 2020.
 
-- **Diagnósticos Psiquiátricos**
+- **Diagnósticos Psiquiátricos**\
   LISANE — 2020.
 
-- **Setembro Amarelo: Sinais de Risco e Ações de Cuidado**
+- **Setembro Amarelo: Sinais de Risco e Ações de Cuidado**\
   UNIPTAN — 2020.
 :::
 
@@ -221,25 +221,25 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
-- **Bounded Rationality Lab** — aplicativo interativo.
-  <https://bounded-rationality-lab.base44.app>
+- **Bounded Rationality Lab** — aplicativo interativo.\
+  <https://bounded-rationality-lab.base44.app>\
   [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
 
-- **Entangled Beliefs app** — aplicativo interativo.
+- **Entangled Beliefs app** — aplicativo interativo.\
   <https://entangled-beliefs.base44.app>
 
-- **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**.
+- **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**.\
   <https://www.henriquealvarenga.com/rnaught>
 
-- **Visualização de Distribuições Estatísticas**.
+- **Visualização de Distribuições Estatísticas**.\
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
 
-- **Análise Visual de Regressão Linear**.
+- **Análise Visual de Regressão Linear**.\
   <https://henriquealvarenga.shinyapps.io/LinearRegression>
 
-- **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.
-  *Uma versão aprimorada do app de Análise Visual de regressão linear.*
-  <https://henriquealvarenga.com/linear-regression-lab>
+- **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
+  *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
+  <https://henriquealvarenga.com/linear-regression-lab>\
   [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
 
 :::
