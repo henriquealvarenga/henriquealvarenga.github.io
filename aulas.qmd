@@ -77,9 +77,9 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 
 - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**   
   *Uma versão aprimorada do app de Análise Visual de regressão linear*   
-  <https://henriquealvarenga.com/linear-regression-lab>   
+  <https://henriquealvarenga.com/linear-regression-lab>  versão web   
+  <https://apps.apple.com/br/app/linear-regression-lab/id6763681036>  versão para iPhone   
   [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
-
 
 :::
 
