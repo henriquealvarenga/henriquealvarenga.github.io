@@ -2,5 +2,6 @@
 .DS_Store
 *.log
 _site/
+/docs/
 
 **/*.quarto_ipynb
