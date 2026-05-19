@@ -221,11 +221,11 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
-- **Bounded Rationality Lab** — aplicativo interativo.\
+- **Bounded Rationality Lab** — aplicativo interativo\
   <https://bounded-rationality-lab.base44.app>\
   [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
 
-- **Entangled Beliefs app** — aplicativo interativo.\
+- **Entangled Beliefs app** — aplicativo interativo\
   <https://entangled-beliefs.base44.app>
 
 - **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**.\
