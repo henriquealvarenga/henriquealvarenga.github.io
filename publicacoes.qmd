@@ -221,6 +221,10 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
+- **mcp-server-google-forms** — servidor MCP para Google Forms\
+  <https://claude-book.github.io/mcp-server-google-forms>\
+  [![DOI](https://zenodo.org/badge/1294358395.svg)](https://doi.org/10.5281/zenodo.21296975)
+
 - **Bounded Rationality Lab** — aplicativo interativo\
   <https://bounded-rationality-lab.base44.app>\
   [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
