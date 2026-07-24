@@ -221,13 +221,24 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 ::: {.pub-list}
 
+- **BibGetPDF** — baixa os PDFs de acesso aberto das referências de um `.bib`\
+  <https://henriquealvarenga.com/bibgetpdf/>\
+  [![DOI](https://zenodo.org/badge/1311054649.svg)](https://doi.org/10.5281/zenodo.21536834)
+
 - **mcp-server-google-forms** — servidor MCP para Google Forms\
   <https://claude-book.github.io/mcp-server-google-forms>\
   [![DOI](https://zenodo.org/badge/1294358395.svg)](https://doi.org/10.5281/zenodo.21296975)
 
 - **Bounded Rationality Lab** — aplicativo interativo\
   <https://bounded-rationality-lab.base44.app>\
+  <https://apps.apple.com/br/app/bounded-rationality-lab/id6758886656> (iphone/ipad)\
   [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
+
+  - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
+  *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
+  <https://henriquealvarenga.com/linear-regression-lab>\
+  <https://apps.apple.com/br/app/linear-regression-lab/id6763681036> (iphone/ipad)\
+  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
 
 - **Entangled Beliefs app** — aplicativo interativo\
   <https://entangled-beliefs.base44.app>
@@ -241,9 +252,6 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 - **Análise Visual de Regressão Linear**.\
   <https://henriquealvarenga.shinyapps.io/LinearRegression>
 
-- **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
-  *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
-  <https://henriquealvarenga.com/linear-regression-lab>\
-  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
+
 
 :::
