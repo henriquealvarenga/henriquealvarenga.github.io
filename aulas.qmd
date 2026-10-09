@@ -150,7 +150,7 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 
 - **Personalidade: Uma Breve Introdução** — 2ª edição\
   <https://henriquealvarenga.com/personalidade/>\
-  [ISBN 978-65-00-08880-9]{.isbn}
+  [ISBN em cadastramento]{.isbn}
 
 - **Psicopatologia, Informação e Tecnologia**\
   [ISBN 978-65-00-08878-6]{.isbn}
