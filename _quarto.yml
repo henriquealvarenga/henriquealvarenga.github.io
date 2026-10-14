@@ -8,6 +8,8 @@ project:
     # As fontes são referenciadas só de dentro do CSS compilado, então o Quarto
     # não as descobre sozinho — precisam ser declaradas aqui para irem ao docs/.
     - fonts/
+    # Atalho https://henriquealvarenga.com/robert-lowell → /RobertLowell/
+    - robert-lowell/
 
 website:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
