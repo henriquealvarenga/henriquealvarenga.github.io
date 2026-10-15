@@ -48,7 +48,7 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   [ISBN 978-65-02-09855-4]{.isbn}
 
 - **A Bipolaridade de Robert Lowell**\
-  <https://henriquealvarenga.com/RobertLowell/>\ 
+  <https://henriquealvarenga.com/robert-lowell/>\ 
 
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.\   
   [Amazon](https://a.co/d/8VVqZHi)\
